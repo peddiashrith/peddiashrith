@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.github.com/peddiashrith/peddiashrith/master/header.svg)](https://github.com/peddiashrith/peddiashrith/header.svg)
+[![Header](https://raw.github.com/peddiashrith/peddiashrith/master/header.svg)](https://github.com/peddiashrith/peddiashrith/blob/main/header.svg)
 
